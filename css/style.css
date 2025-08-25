@@ -8808,7 +8808,7 @@ h1, h2, h3, h4, h5,
     line-height: 1.2;
     font-size: 18px; }
     .work h2 a {
-      color: #fff; }
+      color: gray; }
   .work .desc {
     z-index: 1; }
   .work .icon {
