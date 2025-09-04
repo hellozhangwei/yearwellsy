@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tianjin-yearwellsy.com/sitemap.xml
